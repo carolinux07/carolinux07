@@ -12,8 +12,8 @@ Admin Linux, incentivadora do uso de SL, amante de tecnologia, filmes e esportes
 
 - 📫 How to reach me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinux07)](https://github.com/nymalone)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/carolinux/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinux07)](https://github.com/carolinux07)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinux/)](https://www.linkedin.com/in/carolinux/)
 
 - ⚡ Fun fact: ...
   - Amo gatos
