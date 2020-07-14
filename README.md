@@ -10,10 +10,15 @@ Admin Linux, incentivadora do uso de SL, amante de tecnologia, filmes e esportes
 
 - About me: http://carolinux.com.br/autora/
 
+- Certifications:
+  - CompTIA Linux+ (Powered by LPI) Certification - https://www.youracclaim.com/badges/72b96fc6-7a90-435f-addd-3c10ae6c4b12/public_url
+  - Microsoft Certified: Azure Fundamentals - https://www.youracclaim.com/badges/706f86d1-e08a-4604-aa71-c4bc95234425/public_url
+
 - 📫 How to reach me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinux07)](https://github.com/carolinux07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinux/)](https://www.linkedin.com/in/carolinux/)
+![Twitter Follow](https://img.shields.io/twitter/follow/carolinux07?label=Seguir&style=flat-square)
 
 - ⚡ Fun fact: ...
   - Amo gatos
