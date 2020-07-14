@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
+---
 
 
 - 📫 How to reach me:
@@ -30,5 +31,3 @@ Here are some ideas to get you started:
   - Adoro montar quebra-cabeças (quanto maior melhor)
   - Gosto de futebol
   - Meus animes preferidos são: Sword Art Online e Avatar (Korra > Aang hehe)
-
----
