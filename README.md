@@ -6,8 +6,6 @@
 
 Admin Linux, incentivadora do uso de SL, amante de tecnologia, filmes e esportes. Sonhadora e movida a desafios. Uma padawan aspirante a corredora e blogueira.
 
-### Hi there 👋
-
 - 💬 Ask me about: Linux, DevOps e Cloud
 
 - My blog: http://carolinux.com.br e https://medium.com/@carolinux
