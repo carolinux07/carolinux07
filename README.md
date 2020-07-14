@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/carolinux/)
 
 - ⚡ Fun fact: ...
---> Amo gatos
---> Adoro montar quebra-cabeças (quanto maior melhor)
---> Gosto de futebol
---> Meus animes preferidos são: Sword Art Online e Avatar (Korra > Aang hehe)
+  - Amo gatos
+  - Adoro montar quebra-cabeças (quanto maior melhor)
+  - Gosto de futebol
+  - Meus animes preferidos são: Sword Art Online e Avatar (Korra > Aang hehe)
 
 ---
