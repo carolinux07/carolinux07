@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinux07)](https://github.com/carolinux07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinux/)](https://www.linkedin.com/in/carolinux/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinux@gmail.com)](mailto:carolinux@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carolinux07?label=Seguir&style=flat-square)
 
 Admin Linux, incentivadora do uso de SL, amante de tecnologia, filmes e esportes. Sonhadora e movida a desafios. Uma padawan aspirante a corredora e blogueira.
