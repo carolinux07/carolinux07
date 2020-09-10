@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinux@gmail.com)](mailto:carolinux@gmail.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carolinux07?label=Seguir&style=flat-square)
 
-Admin Linux, incentivadora do uso de SL, amante de tecnologia, filmes e esportes. Sonhadora e movida a desafios. Uma padawan aspirante a corredora e blogueira.
+Possuo conhecimentos em Linux, DevOps e Cloud, amante de tecnologia, filmes e esportes. Sonhadora e movida a desafios. Uma padawan aspirante a corredora e blogueira.
 
 - 💬 Ask me about: Linux, DevOps e Cloud
 
