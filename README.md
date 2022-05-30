@@ -20,8 +20,8 @@ Skills em Linux, DevOps e Cloud, amante de tecnologia, filmes e esportes. Sonhad
 - ⚡ Fun fact:
   - Amo gatos
   - Adoro montar quebra-cabeças (quanto maior melhor)
-  - Gosto de futebol
-  - Meus animes preferidos são: Sword Art Online e Avatar (Korra > Aang hehe)
+  - Gosto de vários esportes, principalmente futebol.
+  - Meus animes preferidos são: RWBY, Sword Art Online e Avatar (Korra > Aang hehe)
 
 <!--
 **carolinux07/carolinux07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
